@@ -1,0 +1,1277 @@
+﻿Log file open, 11/24/20 23:13:41
+LogInit: Display: Running engine for game: KJMDeathrun_FirstMap
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.341319
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin KillerJimMod
+LogPluginManager: Mounting plugin KJModEditor
+LogPluginManager: Mounting plugin OpenVRExpansionPlugin
+LogPluginManager: Mounting plugin VRExpansionPlugin
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/KJMDeathrun_FirstMap.uproject -run=cook -targetplatform=WindowsNoEditor+WindowsServer -UnVersioned -map=/Game/CustomContent/UGC2286680373/Maps/DeathrunFirstMap -CookDir=D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Content/CustomContent/UGC2286680373/
+LogInit: Base Directory: D:/ProgramFiles/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.24-22.13.41:476][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Engine.ini]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Engine.ini]
+[2020.11.24-22.13.41:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Engine.ini]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Engine.ini]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.24-22.13.41:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Engine.ini]
+[2020.11.24-22.13.41:477][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Engine.ini]
+[2020.11.24-22.13.41:478][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.24-22.13.41:478][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:478][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.24-22.13.41:479][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.24-22.13.41:480][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.24-22.13.41:481][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.24-22.13.41:486][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.24-22.13.41:486][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.24-22.13.41:486][  0]LogHAL: Display: Platform has ~ 16 GB [17128275968 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.24-22.13.41:486][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.24-22.13.41:486][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.24-22.13.41:486][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.24-22.13.41:487][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Scalability.ini]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.24-22.13.41:488][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.24-22.13.41:489][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.24-22.13.41:489][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.24-22.13.41:489][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.24-22.13.41:489][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Config/Windows/Engine.ini]
+[2020.11.24-22.13.41:489][  0]LogInit: Computer: DESKTOP-26NILRT
+[2020.11.24-22.13.41:489][  0]LogInit: User: roxxa
+[2020.11.24-22.13.41:489][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.11.24-22.13.41:489][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.24-22.13.41:489][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.11.24-22.13.41:489][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.24-22.13.41:489][  0]LogMemory: Process Physical Memory: 135.39 MB used, 135.40 MB peak
+[2020.11.24-22.13.41:489][  0]LogMemory: Process Virtual Memory: 116.33 MB used, 116.33 MB peak
+[2020.11.24-22.13.41:490][  0]LogMemory: Physical Memory: 8780.11 MB used,  7554.68 MB free, 16334.80 MB total
+[2020.11.24-22.13.41:490][  0]LogMemory: Virtual Memory: 5187.64 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2020.11.24-22.13.42:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.24-22.13.42:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.24-22.13.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.24-22.13.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.24-22.13.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.24-22.13.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.24-22.13.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.24-22.13.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.24-22.13.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.24-22.13.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.24-22.13.42:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.24-22.13.42:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.24-22.13.42:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.24-22.13.42:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.24-22.13.42:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.24-22.13.42:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.24-22.13.42:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.24-22.13.42:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.24-22.13.42:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.24-22.13.42:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.24-22.13.42:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.24-22.13.42:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.24-22.13.42:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.24-22.13.42:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.24-22.13.42:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.24-22.13.42:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.24-22.13.42:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.24-22.13.42:328][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.24-22.13.42:328][  0]LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.11.24-22.13.42:328][  0]LogTargetPlatformManager: Display: Building Assets For WindowsServer
+[2020.11.24-22.13.42:345][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.24-22.13.42:450][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.24-22.13.42:553][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.24-22.13.42:553][  0]LogInit: Using OS detected language (fr-FR).
+[2020.11.24-22.13.42:553][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.11.24-22.13.42:557][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.11.24-22.13.42:558][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.11.24-22.13.42:558][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.11.24-22.13.42:558][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.11.24-22.13.42:558][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.11.24-22.13.42:558][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.11.24-22.13.42:559][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.11.24-22.13.42:559][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.11.24-22.13.42:951][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Intermediate/Shaders/WorkingDirectory/10988/).
+[2020.11.24-22.13.42:951][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/roxxa/AppData/Local/Temp/UnrealShaderWorkingDir/5B9D5CC84E656B59F523E481CD632ABF/'.
+[2020.11.24-22.13.42:952][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.24-22.13.42:952][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.24-22.13.42:952][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.24-22.13.43:619][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.24-22.13.43:696][  0]LogDerivedDataCache: Loaded boot cache 0.08s 76MB C:/Users/roxxa/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.24-22.13.43:696][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/roxxa/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.24-22.13.43:696][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.24-22.13.43:696][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.24-22.13.43:696][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.24-22.13.43:696][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.24-22.13.43:709][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.24-22.13.43:709][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.24-22.13.43:709][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.24-22.13.43:711][  0]LogDerivedDataCache: Using Local data cache path C:/Users/roxxa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.24-22.13.43:711][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.24-22.13.43:711][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.24-22.13.43:721][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.11.24-22.13.44:018][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.24-22.13.44:080][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.24-22.13.44:080][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.24-22.13.44:080][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.24-22.13.44:080][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.24-22.13.44:080][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.24-22.13.44:092][  0]LogNetVersion: KJMDeathrun_FirstMap 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4101614114)
+[2020.11.24-22.13.44:499][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000025B450103C0), frame # 0
+[2020.11.24-22.13.44:499][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025B45000CC0), frame # 0
+[2020.11.24-22.13.44:501][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025B44FA7600), frame # 0
+[2020.11.24-22.13.44:586][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.061470 seconds
+[2020.11.24-22.13.44:686][  0]LogCollectionManager: Loaded 0 collections in 0.001288 seconds
+[2020.11.24-22.13.44:689][  0]LogFileCache: Scanning file cache for directory 'D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Saved/Collections/' took 0.00s
+[2020.11.24-22.13.44:689][  0]LogFileCache: Scanning file cache for directory 'D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Content/Developers/roxxa/Collections/' took 0.00s
+[2020.11.24-22.13.44:689][  0]LogFileCache: Scanning file cache for directory 'D:/roxxa/Documents/Unreal_Projects/KJMDeathrun_FirstMap/Content/Collections/' took 0.00s
+[2020.11.24-22.13.44:689][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.11.24-22.13.45:173][  0]LogSteamShared: Display: Loading Steam SDK 1.47
+[2020.11.24-22.13.45:176][  0]LogSteamShared: Steam SDK Loaded!
+[2020.11.24-22.13.45:257][  0]SourceControl: Source control is disabled
+[2020.11.24-22.13.45:257][  0]SourceControl: Source control is disabled
+[2020.11.24-22.13.45:262][  0]SourceControl: Source control is disabled
+[2020.11.24-22.13.45:268][  0]SourceControl: Source control is disabled
+[2020.11.24-22.13.45:279][  0]SourceControl: Source control is disabled
+[2020.11.24-22.13.45:302][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.24-22.13.45:303][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.24-22.13.45:666][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.24-22.13.45:704][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.24-22.13.45:704][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.24-22.13.45:770][  0]LogOcInput: OculusInput pre-init called
+[2020.11.24-22.13.45:785][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.24-22.13.45:786][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.24-22.13.45:954][  0]LogUObjectArray: 20752 objects as part of root set at end of initial load.
+[2020.11.24-22.13.45:954][  0]LogUObjectAllocator: 5643696 out of 0 bytes used by permanent object pool.
+[2020.11.24-22.13.45:954][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.24-22.13.46:096][  0]LogInit: Executing Class /Script/UnrealEd.CookCommandlet
+[2020.11.24-22.13.46:103][  0]LogInit: Initializing Editor Engine...
+[2020.11.24-22.13.46:103][  0]LogEngine: Initializing Engine...
+[2020.11.24-22.13.46:106][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.24-22.13.46:340][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.24-22.13.46:352][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.24-22.13.46:352][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025B46D7E200), frame # 0
+[2020.11.24-22.13.46:352][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025B46C5B880), frame # 0
+[2020.11.24-22.13.46:353][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.24-22.13.46:455][  0]LogDerivedDataCache: Saved boot cache 0.10s 76MB C:/Users/roxxa/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.24-22.13.46:461][  0]LogInit: Texture streaming: Disabled
+[2020.11.24-22.13.46:524][  0]LogInit: Initializing Editor Engine Completed
+[2020.11.24-22.13.46:659][  0]BlueprintLog: New page: Editor Load
+[2020.11.24-22.13.46:792][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.24-22.13.46:792][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.24-22.13.46:801][  0]LogCook: Display: Creating asset registry
+[2020.11.24-22.13.47:210][  0]LogCook: Display: Discovering localized assets for cultures: en
+[2020.11.24-22.13.47:291][  0]LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2020.11.24-22.13.47:445][  0]LogCook: Display: Clearing all cooked content for platform WindowsServer
+[2020.11.24-22.13.47:499][  0]LogCook: Display: Sandbox cleanup took 0.276 seconds for platforms WindowsNoEditor WindowsServer 
+[2020.11.24-22.13.50:174][  0]CookResults: Warning: Unable to find package for cooking /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.11.24-22.13.50:174][  0]LogCook: Warning: Unable to find package for cooking /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.11.24-22.13.50:182][  0]LogCook: Display: Cooked packages 0 Packages Remain 511 Total 511
+[2020.11.24-22.13.51:525][  0]LogCook: Display: Cooked packages 50 Packages Remain 510 Total 560
+[2020.11.24-22.13.52:693][  0]LogCook: Display: Cooked packages 100 Packages Remain 509 Total 609
+[2020.11.24-22.13.53:512][  0]LogCook: Display: Cooked packages 150 Packages Remain 509 Total 659
+[2020.11.24-22.13.53:969][  0]LogCook: Display: Cooked packages 181 Packages Remain 508 Total 689
+[2020.11.24-22.13.53:976][  0]LogCook: Display: Cooked packages 187 Packages Remain 360 Total 547
+[2020.11.24-22.13.54:346][  0]LogCook: Display: Cooked packages 193 Packages Remain 360 Total 553
+[2020.11.24-22.13.54:532][  0]LogCook: Display: Cooked packages 200 Packages Remain 359 Total 559
+[2020.11.24-22.13.54:731][  0]LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_4 has elements that reference missing vertices. MaxVertex=3, NumModelVertices=0
+[2020.11.24-22.13.54:731][  0]LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=7, NumModelVertices=0
+[2020.11.24-22.13.54:731][  0]LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=11, NumModelVertices=0
+[2020.11.24-22.13.54:731][  0]LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=19, NumModelVertices=0
+[2020.11.24-22.13.54:731][  0]LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_6 has elements that reference missing vertices. MaxVertex=15, NumModelVertices=0
+[2020.11.24-22.13.54:747][  0]LogModelComponent: Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_7 has elements that reference missing vertices. MaxVertex=23, NumModelVertices=0
+[2020.11.24-22.13.54:772][  0]LogAIModule: Creating AISystem for world Entry
+[2020.11.24-22.13.54:772][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025B4174B800), frame # 0
+[2020.11.24-22.13.54:772][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025B41ABFC40), frame # 0
+[2020.11.24-22.13.54:775][  0]LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+[2020.11.24-22.13.54:784][  0]LogCook: Display: Cooked packages 205 Packages Remain 358 Total 563
+[2020.11.24-22.13.54:892][  0]LogCook: Display: Cooked packages 207 Packages Remain 357 Total 564
+[2020.11.24-22.13.54:918][  0]LogCook: Display: Cooked packages 208 Packages Remain 355 Total 563
+[2020.11.24-22.13.54:921][  0]LogCook: Display: Cooked packages 209 Packages Remain 354 Total 563
+[2020.11.24-22.13.56:089][  0]LogCook: Display: Cooked packages 222 Packages Remain 353 Total 575
+[2020.11.24-22.13.59:104][  0]LogCook: Display: Cooked packages 247 Packages Remain 352 Total 599
+[2020.11.24-22.14.03:183][  0]LogCook: Display: Cooked packages 273 Packages Remain 351 Total 624
+[2020.11.24-22.14.05:601][  0]LogCook: Display: Cooked packages 298 Packages Remain 350 Total 648
+[2020.11.24-22.14.07:393][  0]LogCook: Display: Cooked packages 314 Packages Remain 349 Total 663
+[2020.11.24-22.14.07:405][  0]LogCook: Display: Cooked packages 315 Packages Remain 348 Total 663
+[2020.11.24-22.14.07:422][  0]LogCook: Display: Cooked packages 316 Packages Remain 347 Total 663
+[2020.11.24-22.14.07:436][  0]LogCook: Display: Cooked packages 317 Packages Remain 346 Total 663
+[2020.11.24-22.14.07:453][  0]LogCook: Display: Cooked packages 318 Packages Remain 345 Total 663
+[2020.11.24-22.14.07:805][  0]LogCook: Display: Cooked packages 319 Packages Remain 344 Total 663
+[2020.11.24-22.14.07:967][  0]LogCook: Display: Cooked packages 320 Packages Remain 343 Total 663
+[2020.11.24-22.14.08:016][  0]LogCook: Display: Cooked packages 321 Packages Remain 342 Total 663
+[2020.11.24-22.14.08:328][  0]LogCook: Display: Cooked packages 322 Packages Remain 341 Total 663
+[2020.11.24-22.14.08:377][  0]LogCook: Display: Cooked packages 323 Packages Remain 340 Total 663
+[2020.11.24-22.14.08:389][  0]LogCook: Display: Cooked packages 324 Packages Remain 339 Total 663
+[2020.11.24-22.14.08:394][  0]LogCook: Display: Cooked packages 325 Packages Remain 338 Total 663
+[2020.11.24-22.14.08:417][  0]LogCook: Display: Cooked packages 326 Packages Remain 337 Total 663
+[2020.11.24-22.14.08:427][  0]LogCook: Display: Cooked packages 327 Packages Remain 336 Total 663
+[2020.11.24-22.14.08:438][  0]LogCook: Display: Cooked packages 328 Packages Remain 335 Total 663
+[2020.11.24-22.14.08:462][  0]LogCook: Display: Cooked packages 329 Packages Remain 334 Total 663
+[2020.11.24-22.14.08:480][  0]LogCook: Display: Cooked packages 330 Packages Remain 333 Total 663
+[2020.11.24-22.14.08:493][  0]LogCook: Display: Cooked packages 331 Packages Remain 332 Total 663
+[2020.11.24-22.14.08:505][  0]LogCook: Display: Cooked packages 332 Packages Remain 331 Total 663
+[2020.11.24-22.14.08:540][  0]LogCook: Display: Cooked packages 333 Packages Remain 330 Total 663
+[2020.11.24-22.14.08:896][  0]LogCook: Display: Cooked packages 334 Packages Remain 329 Total 663
+[2020.11.24-22.14.09:010][  0]LogCook: Display: Cooked packages 335 Packages Remain 328 Total 663
+[2020.11.24-22.14.09:067][  0]LogCook: Display: Cooked packages 336 Packages Remain 327 Total 663
+[2020.11.24-22.14.09:494][  0]LogCook: Display: Cooked packages 337 Packages Remain 326 Total 663
+[2020.11.24-22.14.09:523][  0]LogCook: Display: Cooked packages 338 Packages Remain 325 Total 663
+[2020.11.24-22.14.09:561][  0]LogCook: Display: Cooked packages 339 Packages Remain 324 Total 663
+[2020.11.24-22.14.09:607][  0]LogCook: Display: Cooked packages 340 Packages Remain 323 Total 663
+[2020.11.24-22.14.09:669][  0]LogCook: Display: Cooked packages 341 Packages Remain 322 Total 663
+[2020.11.24-22.14.09:763][  0]LogCook: Display: Cooked packages 342 Packages Remain 321 Total 663
+[2020.11.24-22.14.09:819][  0]LogCook: Display: Cooked packages 343 Packages Remain 320 Total 663
+[2020.11.24-22.14.09:869][  0]LogCook: Display: Cooked packages 344 Packages Remain 319 Total 663
+[2020.11.24-22.14.09:897][  0]LogCook: Display: Cooked packages 345 Packages Remain 318 Total 663
+[2020.11.24-22.14.09:916][  0]LogCook: Display: Cooked packages 346 Packages Remain 317 Total 663
+[2020.11.24-22.14.09:943][  0]LogCook: Display: Cooked packages 347 Packages Remain 316 Total 663
+[2020.11.24-22.14.10:026][  0]LogCook: Display: Cooked packages 349 Packages Remain 315 Total 664
+[2020.11.24-22.14.10:062][  0]LogCook: Display: Cooked packages 350 Packages Remain 314 Total 664
+[2020.11.24-22.14.10:088][  0]LogCook: Display: Cooked packages 351 Packages Remain 313 Total 664
+[2020.11.24-22.14.10:095][  0]LogCook: Display: Cooked packages 352 Packages Remain 312 Total 664
+[2020.11.24-22.14.10:113][  0]LogCook: Display: Cooked packages 353 Packages Remain 311 Total 664
+[2020.11.24-22.14.10:156][  0]LogCook: Display: Cooked packages 354 Packages Remain 310 Total 664
+[2020.11.24-22.14.10:169][  0]LogCook: Display: Cooked packages 355 Packages Remain 309 Total 664
+[2020.11.24-22.14.10:185][  0]LogCook: Display: Cooked packages 356 Packages Remain 308 Total 664
+[2020.11.24-22.14.10:213][  0]LogCook: Display: Cooked packages 358 Packages Remain 307 Total 665
+[2020.11.24-22.14.10:254][  0]LogCook: Display: Cooked packages 359 Packages Remain 306 Total 665
+[2020.11.24-22.14.10:283][  0]LogCook: Display: Cooked packages 360 Packages Remain 305 Total 665
+[2020.11.24-22.14.10:335][  0]LogCook: Display: Cooked packages 361 Packages Remain 304 Total 665
+[2020.11.24-22.14.10:356][  0]LogCook: Display: Cooked packages 362 Packages Remain 303 Total 665
+[2020.11.24-22.14.10:378][  0]LogCook: Display: Cooked packages 363 Packages Remain 302 Total 665
+[2020.11.24-22.14.10:390][  0]LogCook: Display: Cooked packages 364 Packages Remain 301 Total 665
+[2020.11.24-22.14.10:420][  0]LogCook: Display: Cooked packages 365 Packages Remain 300 Total 665
+[2020.11.24-22.14.10:448][  0]LogCook: Display: Cooked packages 366 Packages Remain 299 Total 665
+[2020.11.24-22.14.10:854][  0]LogCook: Display: Cooked packages 367 Packages Remain 298 Total 665
+[2020.11.24-22.14.10:903][  0]LogCook: Display: Cooked packages 369 Packages Remain 297 Total 666
+[2020.11.24-22.14.10:947][  0]LogCook: Display: Cooked packages 370 Packages Remain 296 Total 666
+[2020.11.24-22.14.10:988][  0]LogCook: Display: Cooked packages 371 Packages Remain 295 Total 666
+[2020.11.24-22.14.11:035][  0]LogCook: Display: Cooked packages 372 Packages Remain 294 Total 666
+[2020.11.24-22.14.11:122][  0]LogCook: Display: Cooked packages 373 Packages Remain 293 Total 666
+[2020.11.24-22.14.11:167][  0]LogCook: Display: Cooked packages 374 Packages Remain 292 Total 666
+[2020.11.24-22.14.11:219][  0]LogCook: Display: Cooked packages 375 Packages Remain 291 Total 666
+[2020.11.24-22.14.11:266][  0]LogCook: Display: Cooked packages 376 Packages Remain 290 Total 666
+[2020.11.24-22.14.11:501][  0]LogCook: Display: Cooked packages 381 Packages Remain 289 Total 670
+[2020.11.24-22.14.11:526][  0]LogCook: Display: Cooked packages 382 Packages Remain 288 Total 670
+[2020.11.24-22.14.11:564][  0]LogCook: Display: Cooked packages 383 Packages Remain 287 Total 670
+[2020.11.24-22.14.11:647][  0]LogCook: Display: Cooked packages 384 Packages Remain 286 Total 670
+[2020.11.24-22.14.11:703][  0]LogCook: Display: Cooked packages 385 Packages Remain 285 Total 670
+[2020.11.24-22.14.11:787][  0]LogCook: Display: Cooked packages 387 Packages Remain 284 Total 671
+[2020.11.24-22.14.12:119][  0]LogCook: Display: Cooked packages 388 Packages Remain 283 Total 671
+[2020.11.24-22.14.12:182][  0]LogCook: Display: Cooked packages 389 Packages Remain 282 Total 671
+[2020.11.24-22.14.12:220][  0]LogCook: Display: Cooked packages 390 Packages Remain 281 Total 671
+[2020.11.24-22.14.12:250][  0]LogCook: Display: Cooked packages 391 Packages Remain 280 Total 671
+[2020.11.24-22.14.12:261][  0]LogCook: Display: Cooked packages 392 Packages Remain 279 Total 671
+[2020.11.24-22.14.12:334][  0]LogCook: Display: Cooked packages 393 Packages Remain 278 Total 671
+[2020.11.24-22.14.12:374][  0]LogCook: Display: Cooked packages 394 Packages Remain 277 Total 671
+[2020.11.24-22.14.12:418][  0]LogCook: Display: Cooked packages 395 Packages Remain 276 Total 671
+[2020.11.24-22.14.12:463][  0]LogCook: Display: Cooked packages 396 Packages Remain 275 Total 671
+[2020.11.24-22.14.12:511][  0]LogCook: Display: Cooked packages 397 Packages Remain 274 Total 671
+[2020.11.24-22.14.12:589][  0]LogCook: Display: Cooked packages 398 Packages Remain 273 Total 671
+[2020.11.24-22.14.12:634][  0]LogCook: Display: Cooked packages 399 Packages Remain 272 Total 671
+[2020.11.24-22.14.12:707][  0]LogCook: Display: Cooked packages 400 Packages Remain 271 Total 671
+[2020.11.24-22.14.12:747][  0]LogCook: Display: Cooked packages 401 Packages Remain 270 Total 671
+[2020.11.24-22.14.12:767][  0]LogCook: Display: Cooked packages 402 Packages Remain 269 Total 671
+[2020.11.24-22.14.12:818][  0]LogCook: Display: Cooked packages 403 Packages Remain 268 Total 671
+[2020.11.24-22.14.12:847][  0]LogCook: Display: Cooked packages 404 Packages Remain 267 Total 671
+[2020.11.24-22.14.12:864][  0]LogCook: Display: Cooked packages 405 Packages Remain 266 Total 671
+[2020.11.24-22.14.12:894][  0]LogCook: Display: Cooked packages 406 Packages Remain 265 Total 671
+[2020.11.24-22.14.12:930][  0]LogCook: Display: Cooked packages 407 Packages Remain 264 Total 671
+[2020.11.24-22.14.12:976][  0]LogCook: Display: Cooked packages 408 Packages Remain 262 Total 670
+[2020.11.24-22.14.13:053][  0]LogCook: Display: Cooked packages 409 Packages Remain 261 Total 670
+[2020.11.24-22.14.13:386][  0]LogCook: Display: Cooked packages 410 Packages Remain 260 Total 670
+[2020.11.24-22.14.13:430][  0]LogCook: Display: Cooked packages 411 Packages Remain 259 Total 670
+[2020.11.24-22.14.13:462][  0]LogCook: Display: Cooked packages 412 Packages Remain 258 Total 670
+[2020.11.24-22.14.13:506][  0]LogCook: Display: Cooked packages 414 Packages Remain 257 Total 671
+[2020.11.24-22.14.13:559][  0]LogCook: Display: Cooked packages 415 Packages Remain 256 Total 671
+[2020.11.24-22.14.13:932][  0]LogCook: Display: Cooked packages 416 Packages Remain 255 Total 671
+[2020.11.24-22.14.13:976][  0]LogCook: Display: Cooked packages 417 Packages Remain 254 Total 671
+[2020.11.24-22.14.14:013][  0]LogCook: Display: Cooked packages 418 Packages Remain 253 Total 671
+[2020.11.24-22.14.14:060][  0]LogCook: Display: Cooked packages 419 Packages Remain 252 Total 671
+[2020.11.24-22.14.14:129][  0]LogCook: Display: Cooked packages 420 Packages Remain 251 Total 671
+[2020.11.24-22.14.14:178][  0]LogCook: Display: Cooked packages 421 Packages Remain 250 Total 671
+[2020.11.24-22.14.14:210][  0]LogCook: Display: Cooked packages 422 Packages Remain 249 Total 671
+[2020.11.24-22.14.14:267][  0]LogCook: Display: Cooked packages 423 Packages Remain 246 Total 669
+[2020.11.24-22.14.14:293][  0]LogCook: Display: Cooked packages 424 Packages Remain 245 Total 669
+[2020.11.24-22.14.15:229][  0]LogCook: Display: Cooked packages 428 Packages Remain 244 Total 672
+[2020.11.24-22.14.15:321][  0]LogCook: Display: Cooked packages 429 Packages Remain 243 Total 672
+[2020.11.24-22.14.15:342][  0]LogCook: Display: Cooked packages 430 Packages Remain 242 Total 672
+[2020.11.24-22.14.15:392][  0]LogCook: Display: Cooked packages 432 Packages Remain 241 Total 673
+[2020.11.24-22.14.15:761][  0]LogCook: Display: Cooked packages 434 Packages Remain 240 Total 674
+[2020.11.24-22.14.15:818][  0]LogCook: Display: Cooked packages 435 Packages Remain 239 Total 674
+[2020.11.24-22.14.15:840][  0]LogCook: Display: Cooked packages 436 Packages Remain 238 Total 674
+[2020.11.24-22.14.16:253][  0]LogCook: Display: Cooked packages 437 Packages Remain 237 Total 674
+[2020.11.24-22.14.16:267][  0]LogCook: Display: Cooked packages 438 Packages Remain 236 Total 674
+[2020.11.24-22.14.16:334][  0]LogCook: Display: Cooked packages 439 Packages Remain 235 Total 674
+[2020.11.24-22.14.16:349][  0]LogCook: Display: Cooked packages 440 Packages Remain 234 Total 674
+[2020.11.24-22.14.16:404][  0]LogCook: Display: Cooked packages 443 Packages Remain 232 Total 675
+[2020.11.24-22.14.16:495][  0]LogCook: Display: Cooked packages 446 Packages Remain 230 Total 676
+[2020.11.24-22.14.16:558][  0]LogCook: Display: Cooked packages 450 Packages Remain 227 Total 677
+[2020.11.24-22.14.16:612][  0]LogCook: Display: Cooked packages 453 Packages Remain 225 Total 678
+[2020.11.24-22.14.16:684][  0]LogCook: Display: Cooked packages 454 Packages Remain 224 Total 678
+[2020.11.24-22.14.16:798][  0]LogCook: Display: Cooked packages 456 Packages Remain 222 Total 678
+[2020.11.24-22.14.16:828][  0]LogCook: Display: Cooked packages 457 Packages Remain 221 Total 678
+[2020.11.24-22.14.16:869][  0]LogCook: Display: Cooked packages 459 Packages Remain 221 Total 680
+[2020.11.24-22.14.16:904][  0]LogCook: Display: Cooked packages 462 Packages Remain 219 Total 681
+[2020.11.24-22.14.16:924][  0]LogCook: Display: Cooked packages 463 Packages Remain 218 Total 681
+[2020.11.24-22.14.16:953][  0]LogCook: Display: Cooked packages 465 Packages Remain 213 Total 678
+[2020.11.24-22.14.16:964][  0]LogCook: Display: Cooked packages 466 Packages Remain 211 Total 677
+[2020.11.24-22.14.17:023][  0]LogCook: Display: Cooked packages 467 Packages Remain 210 Total 677
+[2020.11.24-22.14.17:054][  0]LogCook: Display: Cooked packages 470 Packages Remain 207 Total 677
+[2020.11.24-22.14.17:100][  0]LogCook: Display: Cooked packages 471 Packages Remain 206 Total 677
+[2020.11.24-22.14.17:121][  0]LogCook: Display: Cooked packages 472 Packages Remain 205 Total 677
+[2020.11.24-22.14.17:144][  0]LogCook: Display: Cooked packages 473 Packages Remain 204 Total 677
+[2020.11.24-22.14.17:164][  0]LogCook: Display: Cooked packages 474 Packages Remain 203 Total 677
+[2020.11.24-22.14.17:174][  0]LogCook: Display: Cooked packages 475 Packages Remain 202 Total 677
+[2020.11.24-22.14.17:187][  0]LogCook: Display: Cooked packages 476 Packages Remain 201 Total 677
+[2020.11.24-22.14.17:202][  0]LogCook: Display: Cooked packages 477 Packages Remain 200 Total 677
+[2020.11.24-22.14.17:215][  0]LogCook: Display: Cooked packages 478 Packages Remain 199 Total 677
+[2020.11.24-22.14.17:519][  0]LogCook: Display: Cooked packages 479 Packages Remain 198 Total 677
+[2020.11.24-22.14.17:532][  0]LogCook: Display: Cooked packages 480 Packages Remain 197 Total 677
+[2020.11.24-22.14.17:550][  0]LogCook: Display: Cooked packages 481 Packages Remain 196 Total 677
+[2020.11.24-22.14.17:566][  0]LogCook: Display: Cooked packages 483 Packages Remain 195 Total 678
+[2020.11.24-22.14.17:596][  0]LogCook: Display: Cooked packages 485 Packages Remain 194 Total 679
+[2020.11.24-22.14.17:611][  0]LogCook: Display: Cooked packages 486 Packages Remain 192 Total 678
+[2020.11.24-22.14.17:617][  0]LogCook: Display: Cooked packages 487 Packages Remain 191 Total 678
+[2020.11.24-22.14.17:632][  0]LogCook: Display: Cooked packages 488 Packages Remain 189 Total 677
+[2020.11.24-22.14.17:644][  0]LogCook: Display: Cooked packages 489 Packages Remain 188 Total 677
+[2020.11.24-22.14.18:114][  0]LogCook: Display: Cooked packages 491 Packages Remain 186 Total 677
+[2020.11.24-22.14.18:135][  0]LogCook: Display: Cooked packages 492 Packages Remain 161 Total 653
+[2020.11.24-22.14.18:149][  0]LogCook: Display: Cooked packages 493 Packages Remain 159 Total 652
+[2020.11.24-22.14.18:176][  0]LogCook: Display: Cooked packages 500 Packages Remain 158 Total 658
+[2020.11.24-22.14.18:185][  0]LogCook: Display: Cooked packages 501 Packages Remain 157 Total 658
+[2020.11.24-22.14.18:191][  0]LogCook: Display: Cooked packages 502 Packages Remain 156 Total 658
+[2020.11.24-22.14.18:196][  0]LogCook: Display: Cooked packages 503 Packages Remain 155 Total 658
+[2020.11.24-22.14.18:233][  0]LogCook: Display: Cooked packages 505 Packages Remain 154 Total 659
+[2020.11.24-22.14.18:257][  0]LogCook: Display: Cooked packages 507 Packages Remain 153 Total 660
+[2020.11.24-22.14.18:300][  0]LogCook: Display: Cooked packages 509 Packages Remain 152 Total 661
+[2020.11.24-22.14.18:355][  0]LogCook: Display: Cooked packages 510 Packages Remain 151 Total 661
+[2020.11.24-22.14.18:368][  0]LogCook: Display: Cooked packages 511 Packages Remain 150 Total 661
+[2020.11.24-22.14.18:379][  0]LogCook: Display: Cooked packages 512 Packages Remain 149 Total 661
+[2020.11.24-22.14.18:397][  0]LogCook: Display: Cooked packages 513 Packages Remain 148 Total 661
+[2020.11.24-22.14.18:411][  0]LogCook: Display: Cooked packages 514 Packages Remain 147 Total 661
+[2020.11.24-22.14.18:417][  0]LogCook: Display: Cooked packages 515 Packages Remain 146 Total 661
+[2020.11.24-22.14.18:451][  0]LogCook: Display: Cooked packages 516 Packages Remain 144 Total 660
+[2020.11.24-22.14.18:460][  0]LogCook: Display: Cooked packages 518 Packages Remain 143 Total 661
+[2020.11.24-22.14.18:595][  0]LogAIModule: Creating AISystem for world DeathrunFirstMap
+[2020.11.24-22.14.18:596][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025B54506000), frame # 0
+[2020.11.24-22.14.18:596][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025B52A2E980), frame # 0
+[2020.11.24-22.14.18:725][  0]LogWorld: UWorld::CleanupWorld for DeathrunFirstMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.24-22.14.18:929][  0]LogCook: Display: Cooked packages 521 Packages Remain 150 Total 671
+[2020.11.24-22.14.19:020][  0]LogCook: Display: Cooked packages 537 Packages Remain 0 Total 537
+[2020.11.24-22.14.19:022][  0]LogCook: Display: Finishing up...
+[2020.11.24-22.14.19:939][  0]LogCook: Display: Saving BulkData manifest(s)...
+[2020.11.24-22.14.20:221][  0]LogCook: Display: Done saving BulkData manifest(s)
+[2020.11.24-22.14.20:229][  0]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2020.11.24-22.14.20:230][  0]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2020.11.24-22.14.20:230][  0]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2020.11.24-22.14.20:364][  0]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2020.11.24-22.14.20:367][  0]LogAssetRegistryGenerator: Chunk: 0, Started with 532 packages, Final after dependency resolve: 532
+[2020.11.24-22.14.20:368][  0]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2020.11.24-22.14.20:368][  0]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.11.24-22.14.20:394][  0]LogAssetRegistryGenerator: Display: Generated asset registry num assets 532, size is 264.39kb
+[2020.11.24-22.14.20:397][  0]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.11.24-22.14.20:423][  0]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2020.11.24-22.14.20:425][  0]LogAssetRegistryGenerator: Chunk: 0, Started with 530 packages, Final after dependency resolve: 530
+[2020.11.24-22.14.20:427][  0]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.003 s
+[2020.11.24-22.14.20:427][  0]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.11.24-22.14.20:449][  0]LogAssetRegistryGenerator: Display: Generated asset registry num assets 530, size is 264.01kb
+[2020.11.24-22.14.20:450][  0]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.11.24-22.14.20:452][  0]LogCook: Display: Cook by the book total time in tick 28.803938s total time 33.653820
+[2020.11.24-22.14.20:453][  0]LogCook: Display: Peak Used virtual 782MB Peak Used physical 836MB
+[2020.11.24-22.14.20:454][  0]LogCook: Display: Hierarchy Timer Information:
+[2020.11.24-22.14.20:454][  0]LogCook: Display:   Root: 0.000s (0)
+[2020.11.24-22.14.20:456][  0]LogCook: Display:     StartCookByTheBookTime: 3.378s (1)
+[2020.11.24-22.14.20:456][  0]LogCook: Display:       CleanSandbox: 0.276s (1)
+[2020.11.24-22.14.20:457][  0]LogCook: Display:         ProcessingAccessedStrings: 0.009s (2)
+[2020.11.24-22.14.20:458][  0]LogCook: Display:       CollectFilesToCook: 0.074s (1)
+[2020.11.24-22.14.20:458][  0]LogCook: Display:         CookModificationDelegate: 0.009s (1)
+[2020.11.24-22.14.20:459][  0]LogCook: Display:         SearchForPackageOnDisk: 0.000s (1)
+[2020.11.24-22.14.20:460][  0]LogCook: Display:         GeneratePackageNames: 0.001s (1)
+[2020.11.24-22.14.20:460][  0]LogCook: Display:       GenerateLongPackageName: 0.002s (1)
+[2020.11.24-22.14.20:461][  0]LogCook: Display:     TickCookOnTheSide: 28.717s (308)
+[2020.11.24-22.14.20:462][  0]LogCook: Display:       LoadPackage: 16.079s (308)
+[2020.11.24-22.14.20:462][  0]LogCook: Display:       CallBeginCacheForCookedPlatformData: 5.606s (308)
+[2020.11.24-22.14.20:463][  0]LogCook: Display:       PostLoadPackageFixup: 0.000s (308)
+[2020.11.24-22.14.20:464][  0]LogCook: Display:       SavingPackages: 7.001s (179)
+[2020.11.24-22.14.20:464][  0]LogCook: Display:         PrecachePlatformDataForNextPackage: 0.076s (404)
+[2020.11.24-22.14.20:465][  0]LogCook: Display:         PrecachePlatformDataForNextNextPackage: 2.579s (366)
+[2020.11.24-22.14.20:465][  0]LogCook: Display:         SaveCookedPackage: 4.207s (537)
+[2020.11.24-22.14.20:466][  0]LogCook: Display:           LoadPackage: 0.002s (1074)
+[2020.11.24-22.14.20:466][  0]LogCook: Display:           GEditorSavePackage: 4.185s (1074)
+[2020.11.24-22.14.20:467][  0]LogCook: Display:             ConvertingBlueprints: 0.183s (1074)
+[2020.11.24-22.14.20:467][  0]LogCook: Display:             VerifyCanCookPackage: 0.004s (1062)
+[2020.11.24-22.14.20:468][  0]LogCook: Display:         ClearAllCachedCookedPlatformData: 0.006s (537)
+[2020.11.24-22.14.20:468][  0]LogCook: Display:         EnqueueUnsavedPackages: 0.000s (7)
+[2020.11.24-22.14.20:469][  0]LogCook: Display:     FinalizePackageStore: 0.282s (1)
+[2020.11.24-22.14.20:469][  0]LogCook: Display:     GeneratingBlueprintAssets: 0.010s (1)
+[2020.11.24-22.14.20:472][  0]LogCook: Display:     SavingCurrentIniSettings: 0.088s (1)
+[2020.11.24-22.14.20:473][  0]LogCook: Display:       ProcessingAccessedStrings: 0.010s (2)
+[2020.11.24-22.14.20:473][  0]LogCook: Display:     SavingAssetRegistry: 0.123s (1)
+[2020.11.24-22.14.20:474][  0]LogCook: Display:       BuildChunkManifest: 0.051s (2)
+[2020.11.24-22.14.20:474][  0]LogCook: Display:       SaveManifests: 0.008s (2)
+[2020.11.24-22.14.20:475][  0]LogCook: Display:       SaveRealAssetRegistry: 0.052s (2)
+[2020.11.24-22.14.20:475][  0]LogCook: Display:       WriteCookerOpenOrder: 0.011s (2)
+[2020.11.24-22.14.20:476][  0]LogCook: Display: Done!
+[2020.11.24-22.14.20:489][  0]LogSavePackage: Display: Took 0.007691s to verify the EDL loading graph.
+[2020.11.24-22.14.20:554][  0]LogCookCommandlet: Display: Misc Cook Stats
+[2020.11.24-22.14.20:555][  0]LogCookCommandlet: Display: ===============
+[2020.11.24-22.14.20:575][  0]LogCookCommandlet: Display: NiagaraShader.Misc
+[2020.11.24-22.14.20:576][  0]LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.11.24-22.14.20:578][  0]LogCookCommandlet: Display: ShaderCompiler
+[2020.11.24-22.14.20:579][  0]LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2020.11.24-22.14.20:581][  0]LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2020.11.24-22.14.20:583][  0]LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2020.11.24-22.14.20:584][  0]LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2020.11.24-22.14.20:584][  0]LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000494
+[2020.11.24-22.14.20:585][  0]LogCookCommandlet: Display: GlobalShader.Misc
+[2020.11.24-22.14.20:586][  0]LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.11.24-22.14.20:587][  0]LogCookCommandlet: Display: MeshMaterial.Misc
+[2020.11.24-22.14.20:588][  0]LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.11.24-22.14.20:588][  0]LogCookCommandlet: Display: MaterialShader.Misc
+[2020.11.24-22.14.20:589][  0]LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.11.24-22.14.20:624][  0]LogCookCommandlet: Display: Package.Load
+[2020.11.24-22.14.20:625][  0]LogCookCommandlet: Display:     NumPackagesLoaded=438
+[2020.11.24-22.14.20:626][  0]LogCookCommandlet: Display:     LoadPackageTimeSec=16.732561
+[2020.11.24-22.14.20:628][  0]LogCookCommandlet: Display: Package.Save
+[2020.11.24-22.14.20:628][  0]LogCookCommandlet: Display:     NumPackagesSaved=1074
+[2020.11.24-22.14.20:629][  0]LogCookCommandlet: Display:     SavePackageTimeSec=3.793077
+[2020.11.24-22.14.20:630][  0]LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=2.250962
+[2020.11.24-22.14.20:631][  0]LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.210129
+[2020.11.24-22.14.20:631][  0]LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000548
+[2020.11.24-22.14.20:632][  0]LogCookCommandlet: Display:     ResetLoadersTimeSec=0.004536
+[2020.11.24-22.14.20:633][  0]LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.005292
+[2020.11.24-22.14.20:633][  0]LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000918
+[2020.11.24-22.14.20:634][  0]LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2020.11.24-22.14.20:635][  0]LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.410042
+[2020.11.24-22.14.20:635][  0]LogCookCommandlet: Display:     SerializeExportsTimeSec=0.305202
+[2020.11.24-22.14.20:636][  0]LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.125828
+[2020.11.24-22.14.20:636][  0]LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2020.11.24-22.14.20:638][  0]LogCookCommandlet: Display:     MBWritten=561.168994
+[2020.11.24-22.14.20:669][  0]LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2020.11.24-22.14.20:671][  0]LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2020.11.24-22.14.20:672][  0]LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2020.11.24-22.14.20:672][  0]LogCookCommandlet: Display: Package.DiffTotal
+[2020.11.24-22.14.20:673][  0]LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2020.11.24-22.14.20:673][  0]LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2020.11.24-22.14.20:674][  0]LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2020.11.24-22.14.20:675][  0]LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2020.11.24-22.14.20:675][  0]LogCookCommandlet: Display: UnversionedProperties
+[2020.11.24-22.14.20:676][  0]LogCookCommandlet: Display:     SavedStructs=0
+[2020.11.24-22.14.20:677][  0]LogCookCommandlet: Display:     SavedMB=0
+[2020.11.24-22.14.20:678][  0]LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2020.11.24-22.14.20:678][  0]LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2020.11.24-22.14.20:679][  0]LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2020.11.24-22.14.20:680][  0]LogCookCommandlet: Display: 
+[2020.11.24-22.14.20:681][  0]LogCookCommandlet: Display: Cook Profile
+[2020.11.24-22.14.20:681][  0]LogCookCommandlet: Display: ============
+[2020.11.24-22.14.20:682][  0]LogCookCommandlet: Display:  0.CookWallTimeSec=42.853148
+[2020.11.24-22.14.20:683][  0]LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=9.090173
+[2020.11.24-22.14.20:683][  0]LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=33.699096
+[2020.11.24-22.14.20:684][  0]LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=3.383628
+[2020.11.24-22.14.20:684][  0]LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.009165
+[2020.11.24-22.14.20:686][  0]LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=30.260489
+[2020.11.24-22.14.20:686][  0]LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=16.088944
+[2020.11.24-22.14.20:689][  0]LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=4.206609
+[2020.11.24-22.14.20:690][  0]LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2020.11.24-22.14.20:690][  0]LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=8.255632
+[2020.11.24-22.14.20:691][  0]LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.131429
+[2020.11.24-22.14.20:691][  0]LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2020.11.24-22.14.20:692][  0]LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.032404
+[2020.11.24-22.14.20:693][  0]LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000027
+[2020.11.24-22.14.20:694][  0]LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000057
+[2020.11.24-22.14.20:695][  0]LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000011
+[2020.11.24-22.14.20:695][  0]LogCookCommandlet: Display: 
+[2020.11.24-22.14.20:696][  0]LogCookCommandlet: Display: DDC Summary Stats
+[2020.11.24-22.14.20:697][  0]LogCookCommandlet: Display: =================
+[2020.11.24-22.14.20:698][  0]LogCookCommandlet: Display: TotalGetHits    =      1784
+[2020.11.24-22.14.20:698][  0]LogCookCommandlet: Display: TotalGets       =      1784
+[2020.11.24-22.14.20:699][  0]LogCookCommandlet: Display: TotalGetHitPct  =  1.000000
+[2020.11.24-22.14.20:699][  0]LogCookCommandlet: Display: LocalGetHitPct  =  0.358184
+[2020.11.24-22.14.20:700][  0]LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2020.11.24-22.14.20:701][  0]LogCookCommandlet: Display: OtherGetHitPct  =  0.641816
+[2020.11.24-22.14.20:702][  0]LogCookCommandlet: Display: GetMissPct      =  0.000000
+[2020.11.24-22.14.20:702][  0]LogCookCommandlet: Display: TotalPutHits    =         0
+[2020.11.24-22.14.20:703][  0]LogCookCommandlet: Display: TotalPuts       =         0
+[2020.11.24-22.14.20:705][  0]LogCookCommandlet: Display: TotalPutHitPct  =  0.000000
+[2020.11.24-22.14.20:706][  0]LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2020.11.24-22.14.20:706][  0]LogCookCommandlet: Display: 
+[2020.11.24-22.14.20:707][  0]LogCookCommandlet: Display: DDC Resource Stats
+[2020.11.24-22.14.20:708][  0]LogCookCommandlet: Display: =======================================================================================================
+[2020.11.24-22.14.20:708][  0]LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2020.11.24-22.14.20:709][  0]LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2020.11.24-22.14.20:709][  0]LogCookCommandlet: Display: Texture (Streaming)                            12.54                   0.00             0        430.94
+[2020.11.24-22.14.20:711][  0]LogCookCommandlet: Display: MaterialShader                                  2.60                   2.60             0          9.65
+[2020.11.24-22.14.20:712][  0]LogCookCommandlet: Display: Texture (Inline)                                1.79                   1.79             0         71.21
+[2020.11.24-22.14.20:712][  0]LogCookCommandlet: Display: PhysX (BodySetup)                               0.57                   0.57             0          5.67
+[2020.11.24-22.14.20:713][  0]LogCookCommandlet: Display: StaticMesh                                      0.18                   0.18             0          6.17
+[2020.11.24-22.14.20:714][  0]LogCookCommandlet: Display: SkeletalMesh                                    0.11                   0.11             0         13.45
+[2020.11.24-22.14.20:714][  0]LogCookCommandlet: Display: NavCollision                                    0.05                   0.05             0          0.16
+[2020.11.24-22.14.20:716][  0]LogCookCommandlet: Display: GlobalShader                                    0.02                   0.02             0          6.32
+[2020.11.24-22.14.20:717][  0]LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          2.63
+[2020.11.24-22.14.20:718][  0]LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2020.11.24-22.14.20:718][  0]LogCore: Engine exit requested (reason: Commandlet CookCommandlet_0 finished execution (result 0))
+[2020.11.24-22.14.20:720][  0]LogInit: Display: 
+[2020.11.24-22.14.20:721][  0]LogInit: Display: Warning/Error Summary (Unique only)
+[2020.11.24-22.14.20:722][  0]LogInit: Display: -----------------------------------
+[2020.11.24-22.14.20:722][  0]LogInit: Display: CookResults: Warning: Unable to find package for cooking /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.11.24-22.14.20:723][  0]LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.11.24-22.14.20:723][  0]LogInit: Display: 
+[2020.11.24-22.14.20:724][  0]LogInit: Display: Success - 0 error(s), 2 warning(s)
+[2020.11.24-22.14.20:724][  0]LogInit: Display: 
+Execution of commandlet took:  33.94 seconds
+[2020.11.24-22.14.20:724][  0]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.11.24-22.14.20:737][  0]LogExit: Preparing to exit.
+[2020.11.24-22.14.21:144][  0]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.11.24-22.14.21:256][  0]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.24-22.14.21:256][  0]LogExit: Editor shut down
+[2020.11.24-22.14.22:106][  0]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000025B450103C0), frame # 0
+[2020.11.24-22.14.22:106][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025B45000CC0), frame # 0
+[2020.11.24-22.14.22:113][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025B44FA7600), frame # 0
+[2020.11.24-22.14.23:674][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025B4174B800), frame # 0
+[2020.11.24-22.14.23:674][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025B41ABFC40), frame # 0
+[2020.11.24-22.14.24:001][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025B46D7E200), frame # 0
+[2020.11.24-22.14.24:001][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025B46C5B880), frame # 0
+[2020.11.24-22.14.24:004][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025B54506000), frame # 0
+[2020.11.24-22.14.24:004][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025B52A2E980), frame # 0
+[2020.11.24-22.14.24:297][  0]LogExit: Object subsystem successfully closed.
+[2020.11.24-22.14.25:256][  0]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.11.24-22.14.27:313][  0]LogModuleManager: Shutting down and abandoning module BlueprintCompilerCppBackend (648)
+[2020.11.24-22.14.27:346][  0]LogModuleManager: Shutting down and abandoning module SteamVREditor (644)
+[2020.11.24-22.14.27:346][  0]LogModuleManager: Shutting down and abandoning module OculusMR (642)
+[2020.11.24-22.14.27:358][  0]LogModuleManager: Shutting down and abandoning module GooglePADEditor (640)
+[2020.11.24-22.14.27:358][  0]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (638)
+[2020.11.24-22.14.27:358][  0]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (636)
+[2020.11.24-22.14.27:369][  0]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (634)
+[2020.11.24-22.14.27:370][  0]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (632)
+[2020.11.24-22.14.27:389][  0]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (630)
+[2020.11.24-22.14.27:413][  0]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (628)
+[2020.11.24-22.14.27:413][  0]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (626)
+[2020.11.24-22.14.27:413][  0]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (624)
+[2020.11.24-22.14.27:413][  0]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (622)
+[2020.11.24-22.14.27:413][  0]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (620)
+[2020.11.24-22.14.27:427][  0]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (618)
+[2020.11.24-22.14.27:773][  0]LogModuleManager: Shutting down and abandoning module SequenceRecorder (617)
+[2020.11.24-22.14.27:808][  0]LogModuleManager: Shutting down and abandoning module Persona (616)
+[2020.11.24-22.14.27:849][  0]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (615)
+[2020.11.24-22.14.27:849][  0]LogModuleManager: Shutting down and abandoning module AnimGraph (613)
+[2020.11.24-22.14.27:860][  0]LogModuleManager: Shutting down and abandoning module Kismet (612)
+[2020.11.24-22.14.27:873][  0]LogModuleManager: Shutting down and abandoning module KismetWidgets (611)
+[2020.11.24-22.14.27:873][  0]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (604)
+[2020.11.24-22.14.27:873][  0]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (602)
+[2020.11.24-22.14.27:873][  0]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (600)
+[2020.11.24-22.14.27:873][  0]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (598)
+[2020.11.24-22.14.27:873][  0]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (596)
+[2020.11.24-22.14.27:873][  0]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (594)
+[2020.11.24-22.14.27:873][  0]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (592)
+[2020.11.24-22.14.27:873][  0]LogModuleManager: Shutting down and abandoning module PlanarCut (590)
+[2020.11.24-22.14.27:883][  0]LogModuleManager: Shutting down and abandoning module CharacterAI (588)
+[2020.11.24-22.14.27:883][  0]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2020.11.24-22.14.27:883][  0]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2020.11.24-22.14.27:884][  0]LogModuleManager: Shutting down and abandoning module PlacementMode (583)
+[2020.11.24-22.14.27:884][  0]LogModuleManager: Shutting down and abandoning module GeometryMode (580)
+[2020.11.24-22.14.27:893][  0]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (578)
+[2020.11.24-22.14.27:907][  0]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2020.11.24-22.14.27:907][  0]LogModuleManager: Shutting down and abandoning module ToolMenus (574)
+[2020.11.24-22.14.27:907][  0]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2020.11.24-22.14.27:924][  0]LogModuleManager: Shutting down and abandoning module LiveCoding (570)
+[2020.11.24-22.14.27:934][  0]LogModuleManager: Shutting down and abandoning module LevelSequence (568)
+[2020.11.24-22.14.27:945][  0]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (566)
+[2020.11.24-22.14.27:946][  0]LogModuleManager: Shutting down and abandoning module MovieScene (564)
+[2020.11.24-22.14.27:946][  0]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (562)
+[2020.11.24-22.14.27:946][  0]LogModuleManager: Shutting down and abandoning module AIModule (560)
+[2020.11.24-22.14.27:951][  0]LogModuleManager: Shutting down and abandoning module GameplayDebugger (559)
+[2020.11.24-22.14.27:951][  0]LogModuleManager: Shutting down and abandoning module AITestSuite (557)
+[2020.11.24-22.14.27:951][  0]LogModuleManager: Shutting down and abandoning module NavigationSystem (555)
+[2020.11.24-22.14.27:952][  0]LogModuleManager: Shutting down and abandoning module VRExpansionPlugin (552)
+[2020.11.24-22.14.27:967][  0]LogModuleManager: Shutting down and abandoning module OpenVRExpansionPlugin (550)
+[2020.11.24-22.14.27:967][  0]LogModuleManager: Shutting down and abandoning module KJModEditor (548)
+[2020.11.24-22.14.27:967][  0]LogModuleManager: Shutting down and abandoning module KillerJimModProxy (546)
+[2020.11.24-22.14.27:967][  0]LogModuleManager: Shutting down and abandoning module ScreenshotTools (544)
+[2020.11.24-22.14.27:967][  0]LogModuleManager: Shutting down and abandoning module SynthesisEditor (542)
+[2020.11.24-22.14.27:967][  0]LogModuleManager: Shutting down and abandoning module Synthesis (540)
+[2020.11.24-22.14.28:005][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (538)
+[2020.11.24-22.14.28:006][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (536)
+[2020.11.24-22.14.28:006][  0]LogModuleManager: Shutting down and abandoning module OculusEditor (534)
+[2020.11.24-22.14.28:015][  0]LogModuleManager: Shutting down and abandoning module OculusInput (532)
+[2020.11.24-22.14.28:015][  0]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (530)
+[2020.11.24-22.14.28:015][  0]LogModuleManager: Shutting down and abandoning module GooglePAD (528)
+[2020.11.24-22.14.28:015][  0]LogModuleManager: Shutting down and abandoning module EditableMesh (526)
+[2020.11.24-22.14.28:018][  0]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (524)
+[2020.11.24-22.14.28:018][  0]LogModuleManager: Shutting down and abandoning module CableComponent (522)
+[2020.11.24-22.14.28:018][  0]LogModuleManager: Shutting down and abandoning module AudioCapture (520)
+[2020.11.24-22.14.28:019][  0]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (519)
+[2020.11.24-22.14.28:019][  0]LogModuleManager: Shutting down and abandoning module AssetTags (516)
+[2020.11.24-22.14.28:019][  0]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (514)
+[2020.11.24-22.14.28:019][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (512)
+[2020.11.24-22.14.28:019][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtils (510)
+[2020.11.24-22.14.28:019][  0]LogModuleManager: Shutting down and abandoning module AndroidPermission (508)
+[2020.11.24-22.14.28:019][  0]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (504)
+[2020.11.24-22.14.28:063][  0]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (502)
+[2020.11.24-22.14.28:063][  0]LogModuleManager: Shutting down and abandoning module TemplateSequence (500)
+[2020.11.24-22.14.28:063][  0]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (498)
+[2020.11.24-22.14.28:072][  0]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (496)
+[2020.11.24-22.14.28:075][  0]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (494)
+[2020.11.24-22.14.28:075][  0]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (492)
+[2020.11.24-22.14.28:075][  0]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (491)
+[2020.11.24-22.14.28:079][  0]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (488)
+[2020.11.24-22.14.28:091][  0]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (486)
+[2020.11.24-22.14.28:102][  0]LogModuleManager: Shutting down and abandoning module MediaCompositing (484)
+[2020.11.24-22.14.28:102][  0]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (482)
+[2020.11.24-22.14.28:102][  0]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (480)
+[2020.11.24-22.14.28:102][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (478)
+[2020.11.24-22.14.28:102][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (476)
+[2020.11.24-22.14.28:102][  0]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (474)
+[2020.11.24-22.14.28:103][  0]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (472)
+[2020.11.24-22.14.28:140][  0]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (470)
+[2020.11.24-22.14.28:151][  0]LogModuleManager: Shutting down and abandoning module MeshConversion (468)
+[2020.11.24-22.14.28:151][  0]LogModuleManager: Shutting down and abandoning module DynamicMesh (466)
+[2020.11.24-22.14.28:164][  0]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (464)
+[2020.11.24-22.14.28:175][  0]LogModuleManager: Shutting down and abandoning module GeometricObjects (462)
+[2020.11.24-22.14.28:186][  0]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (460)
+[2020.11.24-22.14.28:186][  0]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (459)
+[2020.11.24-22.14.28:186][  0]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (456)
+[2020.11.24-22.14.28:186][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (454)
+[2020.11.24-22.14.28:186][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (452)
+[2020.11.24-22.14.28:186][  0]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (450)
+[2020.11.24-22.14.28:186][  0]LogModuleManager: Shutting down and abandoning module ChaosNiagara (448)
+[2020.11.24-22.14.28:186][  0]LogModuleManager: Shutting down and abandoning module FractureEditor (446)
+[2020.11.24-22.14.28:203][  0]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (444)
+[2020.11.24-22.14.28:203][  0]LogModuleManager: Shutting down and abandoning module ChaosCloth (442)
+[2020.11.24-22.14.28:213][  0]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (440)
+[2020.11.24-22.14.28:213][  0]LogModuleManager: Shutting down and abandoning module AutomationUtils (438)
+[2020.11.24-22.14.28:213][  0]LogModuleManager: Shutting down and abandoning module AlembicImporter (436)
+[2020.11.24-22.14.28:213][  0]LogModuleManager: Shutting down and abandoning module AlembicLibrary (435)
+[2020.11.24-22.14.28:213][  0]LogModuleManager: Shutting down and abandoning module GeometryCache (434)
+[2020.11.24-22.14.28:213][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (433)
+[2020.11.24-22.14.28:213][  0]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (428)
+[2020.11.24-22.14.28:246][  0]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (426)
+[2020.11.24-22.14.28:246][  0]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (424)
+[2020.11.24-22.14.28:246][  0]LogModuleManager: Shutting down and abandoning module PluginBrowser (422)
+[2020.11.24-22.14.28:307][  0]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (420)
+[2020.11.24-22.14.28:335][  0]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (418)
+[2020.11.24-22.14.28:346][  0]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (416)
+[2020.11.24-22.14.28:383][  0]LogModuleManager: Shutting down and abandoning module CurveEditorTools (414)
+[2020.11.24-22.14.28:388][  0]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (412)
+[2020.11.24-22.14.28:388][  0]LogModuleManager: Shutting down and abandoning module CryptoKeys (410)
+[2020.11.24-22.14.28:388][  0]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (408)
+[2020.11.24-22.14.28:388][  0]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (406)
+[2020.11.24-22.14.28:388][  0]LogModuleManager: Shutting down and abandoning module UObjectPlugin (404)
+[2020.11.24-22.14.28:388][  0]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (402)
+[2020.11.24-22.14.28:394][  0]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (400)
+[2020.11.24-22.14.28:394][  0]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (398)
+[2020.11.24-22.14.28:409][  0]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (396)
+[2020.11.24-22.14.28:431][  0]LogModuleManager: Shutting down and abandoning module GitSourceControl (394)
+[2020.11.24-22.14.28:443][  0]LogModuleManager: Shutting down and abandoning module SourceControl (393)
+[2020.11.24-22.14.28:474][  0]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (390)
+[2020.11.24-22.14.28:474][  0]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (388)
+[2020.11.24-22.14.28:474][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (386)
+[2020.11.24-22.14.28:474][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (384)
+[2020.11.24-22.14.28:474][  0]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (382)
+[2020.11.24-22.14.28:474][  0]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (380)
+[2020.11.24-22.14.28:474][  0]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (378)
+[2020.11.24-22.14.28:474][  0]LogModuleManager: Shutting down and abandoning module Paper2DEditor (376)
+[2020.11.24-22.14.28:491][  0]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (374)
+[2020.11.24-22.14.28:491][  0]LogModuleManager: Shutting down and abandoning module AdvancedSessions (372)
+[2020.11.24-22.14.28:491][  0]LogModuleManager: Shutting down and abandoning module SteamShared (370)
+[2020.11.24-22.14.28:491][  0]LogSteamShared: Freeing the Steam Loaded Modules...
+[2020.11.24-22.14.28:491][  0]LogModuleManager: Shutting down and abandoning module SoundFields (368)
+[2020.11.24-22.14.28:491][  0]LogModuleManager: Shutting down and abandoning module SignificanceManager (366)
+[2020.11.24-22.14.28:491][  0]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (364)
+[2020.11.24-22.14.28:491][  0]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (362)
+[2020.11.24-22.14.28:491][  0]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (358)
+[2020.11.24-22.14.28:491][  0]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (356)
+[2020.11.24-22.14.28:501][  0]LogModuleManager: Shutting down and abandoning module ApexDestruction (354)
+[2020.11.24-22.14.28:501][  0]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.11.24-22.14.28:501][  0]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.11.24-22.14.28:502][  0]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.11.24-22.14.28:502][  0]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.11.24-22.14.28:520][  0]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.11.24-22.14.28:520][  0]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.11.24-22.14.28:574][  0]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.11.24-22.14.28:574][  0]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.11.24-22.14.28:593][  0]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.11.24-22.14.28:593][  0]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.11.24-22.14.28:598][  0]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.11.24-22.14.28:598][  0]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.11.24-22.14.28:598][  0]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.11.24-22.14.28:598][  0]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.11.24-22.14.28:622][  0]LogModuleManager: Shutting down and abandoning module TreeMap (301)
+[2020.11.24-22.14.28:622][  0]LogModuleManager: Shutting down and abandoning module AnimationSharing (298)
+[2020.11.24-22.14.28:622][  0]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (296)
+[2020.11.24-22.14.28:622][  0]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2020.11.24-22.14.28:622][  0]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (292)
+[2020.11.24-22.14.28:622][  0]LogModuleManager: Shutting down and abandoning module PacketHandler (290)
+[2020.11.24-22.14.28:622][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (288)
+[2020.11.24-22.14.28:622][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (286)
+[2020.11.24-22.14.28:633][  0]LogModuleManager: Shutting down and abandoning module MediaAssets (284)
+[2020.11.24-22.14.28:633][  0]LogModuleManager: Shutting down and abandoning module Overlay (282)
+[2020.11.24-22.14.28:633][  0]LogModuleManager: Shutting down and abandoning module OverlayEditor (281)
+[2020.11.24-22.14.28:633][  0]LogModuleManager: Shutting down and abandoning module Blutility (278)
+[2020.11.24-22.14.28:639][  0]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2020.11.24-22.14.28:673][  0]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2020.11.24-22.14.28:684][  0]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (274)
+[2020.11.24-22.14.28:684][  0]LogModuleManager: Shutting down and abandoning module MainFrame (272)
+[2020.11.24-22.14.28:943][  0]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2020.11.24-22.14.28:944][  0]LogModuleManager: Shutting down and abandoning module IntroTutorials (266)
+[2020.11.24-22.14.28:944][  0]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2020.11.24-22.14.29:088][  0]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2020.11.24-22.14.29:094][  0]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2020.11.24-22.14.29:094][  0]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2020.11.24-22.14.29:113][  0]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2020.11.24-22.14.29:120][  0]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2020.11.24-22.14.29:139][  0]LogModuleManager: Shutting down and abandoning module UMG (252)
+[2020.11.24-22.14.29:264][  0]LogModuleManager: Shutting down and abandoning module UMGEditor (251)
+[2020.11.24-22.14.29:294][  0]LogModuleManager: Shutting down and abandoning module MessageLog (249)
+[2020.11.24-22.14.29:294][  0]LogModuleManager: Shutting down and abandoning module MaterialEditor (247)
+[2020.11.24-22.14.29:325][  0]LogModuleManager: Shutting down and abandoning module ContentBrowser (246)
+[2020.11.24-22.14.29:332][  0]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (245)
+[2020.11.24-22.14.29:332][  0]LogModuleManager: Shutting down and abandoning module CollectionManager (243)
+[2020.11.24-22.14.29:340][  0]LogModuleManager: Shutting down and abandoning module Settings (240)
+[2020.11.24-22.14.29:340][  0]LogModuleManager: Shutting down and abandoning module SlateReflector (234)
+[2020.11.24-22.14.29:363][  0]LogModuleManager: Shutting down and abandoning module Slate (232)
+[2020.11.24-22.14.29:363][  0]LogModuleManager: Shutting down and abandoning module SlateCore (230)
+[2020.11.24-22.14.29:363][  0]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (228)
+[2020.11.24-22.14.29:363][  0]LogModuleManager: Shutting down and abandoning module UnrealEd (226)
+[2020.11.24-22.14.29:372][  0]LogModuleManager: Shutting down and abandoning module MRMesh (224)
+[2020.11.24-22.14.29:372][  0]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (222)
+[2020.11.24-22.14.29:373][  0]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (220)
+[2020.11.24-22.14.29:373][  0]LogModuleManager: Shutting down and abandoning module XAudio2 (218)
+[2020.11.24-22.14.29:373][  0]LogModuleManager: Shutting down and abandoning module Networking (216)
+[2020.11.24-22.14.29:373][  0]LogModuleManager: Shutting down and abandoning module Core (214)
+[2020.11.24-22.14.29:373][  0]LogModuleManager: Shutting down and abandoning module MovieSceneTools (212)
+[2020.11.24-22.14.29:393][  0]LogModuleManager: Shutting down and abandoning module CurveEditor (211)
+[2020.11.24-22.14.29:396][  0]LogModuleManager: Shutting down and abandoning module Sequencer (209)
+[2020.11.24-22.14.29:449][  0]LogModuleManager: Shutting down and abandoning module EditorStyle (208)
+[2020.11.24-22.14.29:451][  0]LogModuleManager: Shutting down and abandoning module KismetCompiler (204)
+[2020.11.24-22.14.29:451][  0]LogModuleManager: Shutting down and abandoning module MeshBuilder (202)
+[2020.11.24-22.14.29:451][  0]LogModuleManager: Shutting down and abandoning module MeshUtilities (200)
+[2020.11.24-22.14.29:461][  0]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (199)
+[2020.11.24-22.14.29:471][  0]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (198)
+[2020.11.24-22.14.29:471][  0]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (197)
+[2020.11.24-22.14.29:471][  0]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (195)
+[2020.11.24-22.14.29:471][  0]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (193)
+[2020.11.24-22.14.29:500][  0]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (191)
+[2020.11.24-22.14.29:506][  0]LogModuleManager: Shutting down and abandoning module MaterialBaking (187)
+[2020.11.24-22.14.29:549][  0]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (183)
+[2020.11.24-22.14.29:550][  0]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (180)
+[2020.11.24-22.14.29:550][  0]LogModuleManager: Shutting down and abandoning module DerivedDataCache (178)
+[2020.11.24-22.14.29:550][  0]LogModuleManager: Shutting down and abandoning module XGEController (176)
+[2020.11.24-22.14.29:550][  0]LogModuleManager: Shutting down and abandoning module NullDrv (174)
+[2020.11.24-22.14.29:550][  0]LogModuleManager: Shutting down and abandoning module PhysXCooking (172)
+[2020.11.24-22.14.29:550][  0]LogModuleManager: Shutting down and abandoning module ChaosSolvers (170)
+[2020.11.24-22.14.29:571][  0]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (169)
+[2020.11.24-22.14.29:571][  0]LogModuleManager: Shutting down and abandoning module Chaos (166)
+[2020.11.24-22.14.29:582][  0]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (164)
+[2020.11.24-22.14.29:582][  0]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (163)
+[2020.11.24-22.14.29:582][  0]LogModuleManager: Shutting down and abandoning module AVEncoder (162)
+[2020.11.24-22.14.29:582][  0]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2020.11.24-22.14.29:582][  0]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2020.11.24-22.14.29:582][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2020.11.24-22.14.29:582][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2020.11.24-22.14.29:582][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2020.11.24-22.14.29:583][  0]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2020.11.24-22.14.29:602][  0]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2020.11.24-22.14.29:602][  0]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2020.11.24-22.14.29:602][  0]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2020.11.24-22.14.29:602][  0]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2020.11.24-22.14.29:603][  0]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2020.11.24-22.14.29:603][  0]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2020.11.24-22.14.29:603][  0]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2020.11.24-22.14.29:603][  0]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2020.11.24-22.14.29:613][  0]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2020.11.24-22.14.29:613][  0]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2020.11.24-22.14.29:614][  0]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (127)
+[2020.11.24-22.14.29:614][  0]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (125)
+[2020.11.24-22.14.29:614][  0]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (123)
+[2020.11.24-22.14.29:614][  0]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (121)
+[2020.11.24-22.14.29:614][  0]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.11.24-22.14.29:614][  0]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (117)
+[2020.11.24-22.14.29:615][  0]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (115)
+[2020.11.24-22.14.29:615][  0]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (113)
+[2020.11.24-22.14.29:615][  0]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (111)
+[2020.11.24-22.14.29:615][  0]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2020.11.24-22.14.29:615][  0]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (107)
+[2020.11.24-22.14.29:615][  0]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (105)
+[2020.11.24-22.14.29:615][  0]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (103)
+[2020.11.24-22.14.29:615][  0]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2020.11.24-22.14.29:615][  0]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2020.11.24-22.14.29:616][  0]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (97)
+[2020.11.24-22.14.29:620][  0]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2020.11.24-22.14.29:620][  0]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (92)
+[2020.11.24-22.14.29:620][  0]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (90)
+[2020.11.24-22.14.29:638][  0]LogModuleManager: Shutting down and abandoning module SteamVRInput (88)
+[2020.11.24-22.14.29:638][  0]LogModuleManager: Shutting down and abandoning module SteamVR (86)
+[2020.11.24-22.14.29:638][  0]LogHMD: Freeing OpenVRDLLHandle.
+[2020.11.24-22.14.29:638][  0]LogModuleManager: Shutting down and abandoning module OculusHMD (84)
+[2020.11.24-22.14.29:638][  0]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.11.24-22.14.29:638][  0]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.11.24-22.14.29:638][  0]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.11.24-22.14.29:665][  0]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.11.24-22.14.29:676][  0]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.11.24-22.14.29:763][  0]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.11.24-22.14.29:793][  0]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.11.24-22.14.29:794][  0]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.11.24-22.14.29:798][  0]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.11.24-22.14.29:799][  0]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.11.24-22.14.29:811][  0]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.11.24-22.14.29:811][  0]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.11.24-22.14.29:811][  0]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.11.24-22.14.29:812][  0]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.11.24-22.14.29:812][  0]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.11.24-22.14.29:812][  0]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.11.24-22.14.29:817][  0]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.11.24-22.14.29:817][  0]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.11.24-22.14.29:817][  0]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.11.24-22.14.29:817][  0]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.11.24-22.14.29:830][  0]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.11.24-22.14.29:838][  0]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.11.24-22.14.29:870][  0]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.11.24-22.14.29:870][  0]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.11.24-22.14.29:870][  0]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.11.24-22.14.29:870][  0]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.11.24-22.14.29:870][  0]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.11.24-22.14.29:870][  0]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.11.24-22.14.29:870][  0]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.11.24-22.14.29:880][  0]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.11.24-22.14.29:890][  0]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.11.24-22.14.29:891][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.11.24-22.14.29:891][  0]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.11.24-22.14.29:891][  0]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.11.24-22.14.29:891][  0]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.11.24-22.14.29:891][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.11.24-22.14.29:891][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.11.24-22.14.29:891][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.11.24-22.14.30:214][  0]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.11.24-22.14.30:834][  0]LogExit: Exiting.
+[2020.11.24-22.14.30:887][  0]Log file closed, 11/24/20 23:14:30
