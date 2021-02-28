@@ -19,6 +19,14 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintJson",
+			"Enabled": true
 		}
 	]
 }
